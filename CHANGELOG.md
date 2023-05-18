@@ -8,7 +8,7 @@
 
 ### 🛠 Improvements
 
-- []() -
+- [675](https://github.com/vegaprotocol/vegawallet-desktop/issues/675) - Handle new interaction session for re-instated connections
 
 ## 0.12.2
 
